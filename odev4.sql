@@ -14,4 +14,4 @@ LIKE '_____';
 SELECT COUNT( city )
 FROM city
 WHERE city
-ILIKE '%r';
+LIKE '%r';
